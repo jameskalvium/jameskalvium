@@ -6,59 +6,7 @@
 
 </div> -->
 
----
 
-<table align="center"> 
-  <thead> 
-    <tr> 
-      <th>#</th> 
-      <th>Project</th> 
-      <th>Stack</th> 
-      <th>Highlight</th> 
-      <th>Status</th> 
-    </tr> 
-  </thead> 
-  
-  <tbody> 
-    <tr> 
-      <td>5</td> 
-      <td>🚍 Jacob’s Travels</td> 
-      <td>MERN + Cloud</td> 
-      <td>Transport booking system with event-based promos</td> 
-      <td>Ongoing</td> 
-    </tr> 
-    <tr> 
-      <td>4</td> 
-      <td>📱 Evento</td> 
-      <td>MERN + Cloudinary</td> 
-      <td>University event booking platform (BookMyShow-style)</td> 
-      <td>Ongoing</td> 
-    </tr> 
-    <tr> 
-      <td>3</td> 
-      <td>💻 Wi-Fi Auto-Login Tray App</td> 
-      <td>Python (Pystray, Plyer)</td> 
-      <td>Auto-connects WARP VPN + university Wi-Fi with notifications</td> 
-      <td>Completed</td> 
-    </tr> 
-    <tr> 
-      <td>2</td> 
-      <td>🧩 Splash of Words</td> 
-      <td>Game Dev</td> 
-      <td>Crossword puzzle game for groundwater awareness</td> 
-      <td>Completed</td> 
-    </tr> 
-    <tr> 
-      <td>1</td> 
-      <td>🤖 AI Resume Analyser</td> 
-      <td>AI + Web</td> 
-      <td>Smart assistant to analyse and improve resumes</td> 
-      <td>In Progress</td> 
-    </tr> 
-  </tbody> 
-</table>
-
----
 
 <div align="center"> 
 <h2 align="center">Leetcode Info</h2>  
